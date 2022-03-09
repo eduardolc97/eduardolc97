@@ -8,7 +8,7 @@
 
 ----
 
-🔭 Atualmente trabalhando como desenvolvedor e analista pleno no GrupoNinja (ninjadoexcel.com.br) e no projeto Toca Vida (tocavida.com.br).
+🔭 Atualmente trabalhando como desenvolvedor e analista pleno no GrupoNinja (<a href="https://ninjadoexcel.com.br">ninjadoexcel.com.br</a>) e no projeto Toca Vida (<a href="https://www.tocavida.com.br">tocavida.com.br</a>).
 
 🔭 Também trabalhando como desenvolvedor para algumas empresas parceiras como dev front-end e back-end, absorvendo chamados de clientes ou de colaboradores internos, desnevolvendo sistemas e portais sob demanda.
 
