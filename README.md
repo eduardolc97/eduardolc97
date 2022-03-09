@@ -2,44 +2,41 @@
 
 
 > Sou desenvolvedor web a mais de 6 anos como fullstack, hoje buscando cada vez mais foco em back-end.
+> Conhecimento em frameworks de PHP, CSS, HTML e Javascript, sempre acompanhando as atualizações que o mercado exigem.
 > Possuo experiência em análise UX e criação de interfaces de usuário.
 > Possuo bastante independência na resolução de problemas, mesmo quando fogem do meu ramo.
 > Experiência em liderança e gerenciamento de equipes.
 
 🔭 Atualmente trabalhando como desenvolvedor e analista pleno no GrupoNinja (ninjadoexcel.com.br) e no projeto Toca Vida (tocavida.com.br).
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🔭 Também trabalhando como desenvolvedor para algumas empresas parceiras como dev front-end e back-end, absorvendo chamados de clientes ou de colaboradores internos, desnevolvendo sistemas e portais sob demanda.
 
 ----
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
----
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
----
-
-**Ferramentas de Desenvolvimento**
-
-![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  <p align="center">
+   <a href="https://bitbucket.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/bitbucket/bitbucket-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   </a>
+   <a href="https://www.slack.com">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+   </a>
+   <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+   </a>
+</p>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
