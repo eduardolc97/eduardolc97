@@ -19,7 +19,7 @@
 
   <p align="center">
   <a href="https://www.docker.com/">
-    <img src=" https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
    </a>
   <a href="https://www.php.net/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
