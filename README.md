@@ -1,8 +1,10 @@
-## Olá :D, meu nome é <strong>Eduardo!</strong>
+## Olá 👋, sou <strong>Eduardo!</strong>
 
-> Sou desenvolvedor web a mais de 6 anos, com foco em front-end e back-end.
+
+> Sou desenvolvedor web a mais de 6 anos como fullstack, hoje buscando cada vez mais foco em back-end.
 > Possuo experiência em análise UX e criação de interfaces de usuário.
-> Experiência em liderança e gerenciamento em alguns dos meus projetos.
+> Possuo bastante independência na resolução de problemas, mesmo quando fogem do meu ramo.
+> Experiência em liderança e gerenciamento de equipes.
 
 🔭 Atualmente trabalhando como desenvolvedor e analista pleno no GrupoNinja (ninjadoexcel.com.br) e no projeto Toca Vida (tocavida.com.br).
 
