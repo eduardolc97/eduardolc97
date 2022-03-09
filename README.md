@@ -42,5 +42,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-eduardo-cerato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Eduardo Cerato](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-cerato/)](https://www.linkedin.com/in/eduardo-cerato/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardol_luis@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardol_luis@hotmail.com)](mailto:eduardol_luis@hotmail.com)
