@@ -14,7 +14,7 @@
 
 ----
 <div align="center" style="margin-bottom:25px">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolc97&theme=radical&show_icons=true" />
 </div>
 
   <p align="center">
