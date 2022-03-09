@@ -1,6 +1,6 @@
 ## Olá 👋, sou <strong>Eduardo!</strong>
 
-> Sou desenvolvedor web a mais de 6 anos como fullstack, hoje buscando cada vez mais foco em back-end.<br>
+> Sou desenvolvedor web há mais de 6 anos como fullstack, hoje buscando cada vez mais foco em back-end.<br>
 > Conhecimento em frameworks de PHP, CSS, HTML e Javascript, sempre acompanhando as atualizações que o mercado exigem.<br>
 > Possuo experiência em análise UX e criação de interfaces de usuário.<br>
 > Possuo bastante independência na resolução de problemas, mesmo quando fogem do meu ramo, com o intuito de sempre evitar a desaceleração no progresso dos meus projetos.<br>
