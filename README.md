@@ -1,5 +1,6 @@
 ## Olá 👋, sou <strong>Eduardo!</strong>
 
+----
 
 > Sou desenvolvedor web a mais de 6 anos como fullstack, hoje buscando cada vez mais foco em back-end.
 > Conhecimento em frameworks de PHP, CSS, HTML e Javascript, sempre acompanhando as atualizações que o mercado exigem.
@@ -7,12 +8,13 @@
 > Possuo bastante independência na resolução de problemas, mesmo quando fogem do meu ramo.
 > Experiência em liderança e gerenciamento de equipes.
 
+----
+
 🔭 Atualmente trabalhando como desenvolvedor e analista pleno no GrupoNinja (ninjadoexcel.com.br) e no projeto Toca Vida (tocavida.com.br).
+
 🔭 Também trabalhando como desenvolvedor para algumas empresas parceiras como dev front-end e back-end, absorvendo chamados de clientes ou de colaboradores internos, desnevolvendo sistemas e portais sob demanda.
 
 ----
-
-## 🚀 Minhas Skills
 
   <p align="center">
    <a href="https://bitbucket.com/">
