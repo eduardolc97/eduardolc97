@@ -1,7 +1,5 @@
 ## Olá 👋, sou <strong>Eduardo!</strong>
 
-----
-
 > Sou desenvolvedor web a mais de 6 anos como fullstack, hoje buscando cada vez mais foco em back-end.
 > Conhecimento em frameworks de PHP, CSS, HTML e Javascript, sempre acompanhando as atualizações que o mercado exigem.
 > Possuo experiência em análise UX e criação de interfaces de usuário.
@@ -15,6 +13,8 @@
 🔭 Também trabalhando como desenvolvedor para algumas empresas parceiras como dev front-end e back-end, absorvendo chamados de clientes ou de colaboradores internos, desnevolvendo sistemas e portais sob demanda.
 
 ----
+
+<img style="margin:0 auto; display:block" height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 
   <p align="center">
    <a href="https://bitbucket.com/">
