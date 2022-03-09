@@ -13,8 +13,9 @@
 🔭 Também trabalhando como desenvolvedor para algumas empresas parceiras como dev front-end e back-end, absorvendo chamados de clientes ou de colaboradores internos, desnevolvendo sistemas e portais sob demanda.
 
 ----
-
-<img style="margin:0 auto; display:block" height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+</div>
 
   <p align="center">
    <a href="https://bitbucket.com/">
