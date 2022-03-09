@@ -18,8 +18,11 @@
 </div>
 
   <p align="center">
-   <a href="https://bitbucket.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/bitbucket/bitbucket-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+  <a href="https://www.php.net/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/php/php-plain.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="https://bitbucket.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/>
    </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
