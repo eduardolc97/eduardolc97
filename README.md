@@ -1,65 +1,47 @@
 # 👋 Hey, I'm Eduardo
 
-Full Stack Developer with 8+ years of experience building scalable web applications and solving real business problems with clean, maintainable code.
+Full Stack Developer with 8+ years of experience building scalable web applications.
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Philosophy
+
+> Think twice, code once.
+
+I believe good software comes from clear thinking before implementation, not speed alone.
+
+---
+
+## 💻 Tech Stack
 
 **Frontend**
 - React.js
 - JavaScript / TypeScript
-- HTML / CSS
-- UI-focused development
+- UI development
 
 **Backend**
 - PHP (Laravel & legacy systems)
 - Node.js
 - REST APIs
-- System integration
 
-**Other tools**
+**Tools**
 - Git / GitHub
-- Docker (basic to intermediate)
-- CI/CD pipelines
 - SQL databases
+- CI/CD basics
 
 ---
 
 ## 💼 What I do
 
-- Build full stack web applications from scratch
-- Maintain and evolve legacy systems
-- Design APIs and backend architectures
-- Work with frontend performance and UX improvements
-- Integrate systems and external services
+- Build and maintain full stack web applications
+- Work on legacy system modernization
+- Design and integrate APIs
+- Improve frontend structure and performance
 
 ---
 
-## 🧠 Experience highlights
+## 🚀 Focus
 
-- 8+ years working as a software developer
-- Strong experience with PHP systems in production
-- Modern React applications and component architecture
-- Migration from legacy systems to modern stacks
-- Focus on performance, maintainability and simplicity
-
----
-
-## 🎯 Current focus
-
-- Improving architecture skills (clean architecture, DDD concepts)
-- Stronger CI/CD and deployment pipelines
-- Better frontend structure and scalability in React
-- System design fundamentals
-
----
-
-## 📫 Contact
-
-- GitHub: [@eduardolc97](https://github.com/eduardolc97)
-- Open to backend / full stack opportunities
-
----
-
-> “Simple solutions scale better than complex ideas.”
+- Clean and scalable architecture
+- Better engineering decisions over rushed solutions
+- Stronger backend and system design fundamentals
