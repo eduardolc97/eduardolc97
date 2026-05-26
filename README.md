@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Eduardo
 
-Full Stack Developer with 8+ years of experience building scalable web applications.
+Full Stack Developer with 12+ years of experience building scalable web applications.
 
 ---
 
